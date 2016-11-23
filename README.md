@@ -1,7 +1,7 @@
 azurevpn-zabbix
 ---------------
 
-A python script to monitor the health of an azure vpn from zabbix.
+A python script to monitor the health of an azure vpn gateway from zabbix.
 If the status is different from "Connected" we raise an alert on zabbix
 
 usage:
